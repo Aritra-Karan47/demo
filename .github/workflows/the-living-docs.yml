@@ -12,7 +12,7 @@ jobs:
       - name: Checkout living-docs agent
         uses: actions/checkout@v4
         with:
-          repository: anikchand461/The-living-docs
+          repository: Aritra-Karan47/demo
           path: living-docs-agent
 
       - name: Set up Python
